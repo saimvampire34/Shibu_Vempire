@@ -1,14 +1,14 @@
-# 𝗡𝗜𝗞𝗞𝗜 -𝗠𝗨𝗦𝗜𝗖 
+# 𝗞𝗜𝗟𝗟𝗘𝗥 -𝗠𝗨𝗦𝗜𝗖 
 ➥ 𝖧ᴇʀᴏᴋᴜ 𝖭ᴇᴡ 𝖤ʀʀᴏʀ 𝖥ɪxᴇᴅ 𝖱ᴇᴘᴏ 𝖣ᴇᴘʟᴏʏ 𝖭ᴏᴡ ✔️ 
  ➥ 𝖥ɪʀsᴛ 𝖥ᴏʀᴋ 𝖳ʜɪs 𝖱ᴇʀᴏ 𝖠ɴᴅ 𝖦ɪᴠᴇ ᴀ 𝖲ᴛᴀʀ ⭐
   ➥ 𝖳ʜᴇɴ ʜᴏsᴛ ᴏɴ ʜᴇʀᴋᴏᴜ 👨🏻‍💻
 <h1 align="center"
  
-### 🚩🚩 SAIM PAPA JI 🚩🚩
+### 🚩🚩 𝗞𝗜𝗟𝗟𝗘𝗥 PAPA JI 🚩🚩
 <h1 align="center"
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗦𝗔𝗜𝗠+𝗞𝗜𝗡𝗚+𝗔𝗥𝗔+🚩+🍁"></b></h3>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗞𝗜𝗟𝗟𝗘𝗥+𝗞𝗜𝗡𝗚+𝗔𝗥𝗔+🚩+🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b>𝗦𝗔𝗜𝗠 𝗪𝗢𝗥𝗟𝗗 𝐁ᴏᴛs</b></h1>
 <p align="center"><a href="https://DADDY_SAIM"><img src="https://files.catbox.moe/ifc74e.jpg" width="400"></a></p>
