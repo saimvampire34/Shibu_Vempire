@@ -30,7 +30,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
 # Get this value from @PURVI_HELP_BOT on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 7520092354))
+OWNER_ID = int(getenv("OWNER_ID", 7840042336))
 
 
 # make your bots privacy from telegra.ph and put your url here 
@@ -51,8 +51,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SAIM_WORLD")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT","https://t.me/xyz_own_world")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+qeecbptRBC81MjQ9")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT","https://t.me/+qeecbptRBC81MjQ9")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -90,10 +90,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/ifc74e.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/obsd7e.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/ifc74e.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/obsd7e.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/9acd828ec45a363add2e9.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/m62z4j.jpg"
